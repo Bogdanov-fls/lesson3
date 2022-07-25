@@ -56,3 +56,12 @@ p a {
 p span {
 	color: darkslateblue;
 }
+.list  li {
+	color: darkseagreen;
+}
+.list ol  li {
+	color: chartreuse;
+}
+.list ol li span {
+	color: darkmagenta;
+}
